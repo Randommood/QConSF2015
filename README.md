@@ -19,6 +19,16 @@ Distributed Systems has been an active area of research since the 1960s, and man
 ## References
 
 ### Eventual Consistency
+* [Determination of Mutual Inconsistency in Distributed Systems](http://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf)
+* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://www.cs.berkeley.edu/~brewer/cs262b/update-conflicts.pdf)
+
+* [Brewer's conjecture & the feasibility of consistent, available, partition-tolerant web](http://dl.acm.org/citation.cfm?id=564601)
+* [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+
+* [A Comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588)
+* [Readings in Conflict Free Replicated Data Types](https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
+
+* [Feral Concurrency Control: An Empicrical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf)
 
 ### System Verification
 * [The Specification Language TLA+](http://research.microsoft.com/en-us/um/people/lamport/pubs/commentary-web.pdf)
