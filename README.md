@@ -21,7 +21,7 @@ Distributed Systems has been an active area of research since the 1960s, and man
 ### Eventual Consistency
 * [Detection of Mutual Inconsistency in Distributed Systems](http://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf)
 * [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://www.cs.berkeley.edu/~brewer/cs262b/update-conflicts.pdf)
-* [Brewer's conjecture & the feasibility of consistent, available, partition-tolerant web](http://dl.acm.org/citation.cfm?id=564601)
+* [Brewer's conjecture & the feasibility of consistent, available, partition-tolerant web](http://perso.telecom-paristech.fr/~kuznetso/INF346-2015/papers/cap.pdf)
 * [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 * [Conflict-free Replicated Data Types](https://hal.inria.fr/inria-00609399v1/document)
 * [A Comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588)
@@ -39,6 +39,17 @@ Distributed Systems has been an active area of research since the 1960s, and man
 * [Raft and TLA+](https://groups.google.com/forum/#!topic/raft-dev/yu-wOUx-gnA)
 * [Raft TLA+ spec](https://ramcloud.stanford.edu/~ongaro/raft.tla)
 * [TLA tools](https://github.com/joewilliams/tla_tools)
+* [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/Ironfleet-SOSP2015-twocol.pdf)
+* [Ironfleet - Github](https://github.com/Microsoft/Ironclad/tree/master/ironfleet)
+* [The Morning Paper - IronFleet](http://blog.acolyer.org/2015/10/15/ironfleet-proving-practical-distributed-systems-correc/)
+
+## Awesome Resources!
+* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
+* [Papers We Love San Francisco](http://www.meetup.com/Papers-We-Love-Too/)
+* [Papers We Love organization site](http://paperswelove.org/)
+* [Papers We Love Github](https://github.com/papers-we-love/papers-we-love)
+* [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
+* [Peter Bailis's Blog](http://www.bailis.org/blog/)
 
 ## About Us
 Ines Sombra is a Distributed Systems Engineer at @Fastly, where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
