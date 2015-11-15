@@ -42,6 +42,8 @@ Distributed Systems has been an active area of research since the 1960s, and man
 * [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/Ironfleet-SOSP2015-twocol.pdf)
 * [Ironfleet - Github](https://github.com/Microsoft/Ironclad/tree/master/ironfleet)
 * [The Morning Paper - IronFleet](http://blog.acolyer.org/2015/10/15/ironfleet-proving-practical-distributed-systems-correc/)
+* [Testing in a Distributed World](https://github.com/randommood/ricon2014)
+* []()
 
 ## Awesome Resources!
 * [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
