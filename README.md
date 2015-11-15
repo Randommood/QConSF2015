@@ -25,7 +25,7 @@ Distributed Systems has been an active area of research since the 1960s, and man
 * [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 * [A Comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588)
 * [Readings in Conflict Free Replicated Data Types](https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
-* [Feral Concurrency Control: An Empicrical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf)
+* [Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf)
 * [Peter Bailis - Papers We Love: Managing Update Conflicts in Bayou, A Weakly Connected Replicated Storage System](https://www.youtube.com/watch?v=txP7CI0PjO4)
 
 
