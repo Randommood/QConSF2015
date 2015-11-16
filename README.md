@@ -43,7 +43,8 @@ Distributed Systems has been an active area of research since the 1960s, and man
 * [Ironfleet - Github](https://github.com/Microsoft/Ironclad/tree/master/ironfleet)
 * [The Morning Paper - IronFleet](http://blog.acolyer.org/2015/10/15/ironfleet-proving-practical-distributed-systems-correc/)
 * [Testing in a Distributed World](https://github.com/randommood/ricon2014)
-* []()
+* [Recognizing safety and liveness](https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf)
+* Wikipedia [Liveness](https://en.wikipedia.org/wiki/Liveness) and [Safety](https://en.wikipedia.org/wiki/Safety_(distributed_computing))
 
 ## Awesome Resources!
 * [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
