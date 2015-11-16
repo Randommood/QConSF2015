@@ -54,10 +54,10 @@ Distributed Systems has been an active area of research since the 1960s, and man
 
 
 ## Awesome Resources!
-* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
 * [Papers We Love San Francisco](http://www.meetup.com/Papers-We-Love-Too/)
 * [Papers We Love organization site](http://paperswelove.org/)
 * [Papers We Love Github](https://github.com/papers-we-love/papers-we-love)
+* [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
 * [Henry Robinson's The Paper Trail](http://the-paper-trail.org/)
 * [Peter Bailis's Blog](http://www.bailis.org/blog/)
 
