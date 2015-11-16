@@ -9,10 +9,16 @@
 * https://www.flickr.com/photos/zionfiction/8424115876
 * https://www.flickr.com/photos/photonyx/4422144830
 * https://www.flickr.com/photos/robybenvenutiphotography/3888411168
-
-
 * http://mediad.publicbroadcasting.net/p/kmuw/files/201506/bill_and_teds_excellent_adventure_still1.jpg
 * http://img2.rnkr-static.com/list_social_img/6743/366743/full/15-famous-rock-couples-u1.jpg
+* http://www.kiss925.com/files/2015/05/Taylor-Swift-Bad-Blood.png
+* http://cos.h-cdn.co/assets/15/43/1600x800/landscape-1445358899-drake.jpg
+* http://i.huffpost.com/gen/1563542/images/o-KANYE-WEST-facebook.jpg
+* http://i3.mirror.co.uk/incoming/article5722811.ece/ALTERNATES/s1227b/Feeling-Myself.jpg
+* http://i.imgur.com/AzCOsUz.jpg
+* https://usatlife.files.wordpress.com/2014/05/rihanna-twitter-featured.jpg?w=1200
+* http://www.post-gazette.com/image/2015/02/09/ca0,83,2864,1992/sia-1.jpg
+
 
 ## Icons
 * [molecule](https://thenounproject.com/search/?q=network&i=165779)

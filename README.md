@@ -45,6 +45,9 @@ Distributed Systems has been an active area of research since the 1960s, and man
 * [Testing in a Distributed World](https://github.com/randommood/ricon2014)
 * [Recognizing safety and liveness](https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf)
 * Wikipedia [Liveness](https://en.wikipedia.org/wiki/Liveness) and [Safety](https://en.wikipedia.org/wiki/Safety_(distributed_computing))
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+* [Peter Alvaro - Outwards from the Middle of the Maze](https://www.youtube.com/watch?v=ggCffvKEJmQ)
+
 
 ## Awesome Resources!
 * [Adrian Colyer's The Morning Paper](http://blog.acolyer.org/)
