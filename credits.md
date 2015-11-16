@@ -21,11 +21,12 @@
 
 
 ## Icons
-* [molecule](https://thenounproject.com/search/?q=network&i=165779)
-* https://thenounproject.com/search/?q=network&i=190563
+* [molecule by By Muharrem Fevzi Çelik from the Noun Project](https://thenounproject.com/search/?q=network&i=165779)
+* [Network by Takao Umehara from the Noun Project](https://thenounproject.com/search/?q=network&i=190563)
 * [Document by shimaru from the Noun Project](https://thenounproject.com/search/?q=papers&i=188981)
 * [Gears by Gregor Črešnar from the Noun Project](https://thenounproject.com/search/?q=systems&i=223807)
 * [Search by Gregor Črešnar from the Noun Project](https://thenounproject.com/search/?q=systems&i=223826)
 * [Diagram by Rodrigo Osornio from the Noun Project](https://thenounproject.com/search/?q=order&i=159310)
 * [Checked by Arthur Shlain from the Noun Project](https://thenounproject.com/search/?q=correct&i=190521)
-* [](https://thenounproject.com/search/?q=data&i=38245)
+* [Open Data by Five by Five from the Noun Project](https://thenounproject.com/search/?q=data&i=38245)
+* [Drinks by Creative Stall from the Noun Project](https://thenounproject.com/search/?q=drinks&i=113811)
