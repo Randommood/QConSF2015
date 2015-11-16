@@ -32,21 +32,25 @@ Distributed Systems has been an active area of research since the 1960s, and man
 
 
 ### System Verification
-* [The Verification of a Distributed System by Caitie McCaffrey]()
+
 * [The Specification Language TLA+](http://research.microsoft.com/en-us/um/people/lamport/pubs/commentary-web.pdf)
-* [Simple testing can prevent most critical failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 * [Use of Formal Methods at Amazon Web Services](http://raftuserstudy.s3-website-us-west-1.amazonaws.com/proof.pdf)
+* [Simple testing can prevent most critical failures](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+* [Lineage Driven Fault Injection](http://www.cs.berkeley.edu/~palvaro/molly.pdf)
+* [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/Ironfleet-SOSP2015-twocol.pdf)
+* [Recognizing safety and liveness](https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf)
+* Wikipedia [Liveness](https://en.wikipedia.org/wiki/Liveness) and [Safety](https://en.wikipedia.org/wiki/Safety_(distributed_computing))
+* [The Temporal Logic of Actions](http://research.microsoft.com/pubs/64074/lamport-actions.pdf)
+* [TLA+ homepage](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 * [Raft and TLA+](https://groups.google.com/forum/#!topic/raft-dev/yu-wOUx-gnA)
 * [Raft TLA+ spec](https://ramcloud.stanford.edu/~ongaro/raft.tla)
 * [TLA tools](https://github.com/joewilliams/tla_tools)
-* [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/Ironfleet-SOSP2015-twocol.pdf)
 * [Ironfleet - Github](https://github.com/Microsoft/Ironclad/tree/master/ironfleet)
 * [The Morning Paper - IronFleet](http://blog.acolyer.org/2015/10/15/ironfleet-proving-practical-distributed-systems-correc/)
-* [Testing in a Distributed World](https://github.com/randommood/ricon2014)
-* [Recognizing safety and liveness](https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf)
-* Wikipedia [Liveness](https://en.wikipedia.org/wiki/Liveness) and [Safety](https://en.wikipedia.org/wiki/Safety_(distributed_computing))
-* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
 * [Peter Alvaro - Outwards from the Middle of the Maze](https://www.youtube.com/watch?v=ggCffvKEJmQ)
+* [The Morning Paper - Lineage Driven Fault Injection](http://blog.acolyer.org/2015/03/26/lineage-driven-fault-injection/)
+* [Testing in a Distributed World](https://github.com/randommood/ricon2014)
+* [The Verification of a Distributed System by Caitie McCaffrey]()
 
 
 ## Awesome Resources!
