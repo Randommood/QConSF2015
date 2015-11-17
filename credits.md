@@ -30,3 +30,5 @@
 * [Checked by Arthur Shlain from the Noun Project](https://thenounproject.com/search/?q=correct&i=190521)
 * [Open Data by Five by Five from the Noun Project](https://thenounproject.com/search/?q=data&i=38245)
 * [Drinks by Creative Stall from the Noun Project](https://thenounproject.com/search/?q=drinks&i=113811)
+* [Mortar Board by Aha-Soft from the Noun Project](https://thenounproject.com/search/?q=tassel%20hat&i=195760)
+* [Construction by Aha-Soft from the Noun Project](https://thenounproject.com/search/?q=industrial+hat&i=180128)

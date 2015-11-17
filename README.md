@@ -2,7 +2,7 @@
 
 Accompanying repository for the [QCon SF 2015](https://qconsf.com/) Day 1 Keynote. Feel free to open any issues for questions and/or to say hi :)
 
-See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](#).
+See the [image credits](credits.md), link to [slides](https://speakerdeck.com/randommood/we-hear-you-like-papers), and [video-soon](#).
 
 ## Abstract
 Surprisingly enough academic papers can be interesting and very relevant to the work we do as computer science practitioners. Papers come in many kinds/ areas of focus and sometimes finding the right one can be difficult. But when you do, it can radically change your perspective and introduce you to new ideas.
